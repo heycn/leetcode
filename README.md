@@ -2,8 +2,10 @@
 
 ### Problem List
 
-| #    | Title                                                                                   | Solution                                               | Difficulty |
-| ---- | --------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
+| #   | Title | Solution | Difficulty |
+| --- | ----- | -------- | ---------- |
+
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.cn/problems/apply-transform-over-each-element-in-array)                                   | [JavaScript](./javascript/ApplyTransformOverEachElementInArray.js)            | Easy       |
 | 2665 | [Counter II](https://leetcode.cn/problems/counter-ii)                                   | [JavaScript](./javascript/CounterII.js)            | Easy       |
 | 2704 | [To Be Or Not To be](https://leetcode.cn/problems/to-be-or-not-to-be)                   | [JavaScript](./javascript/ToBeOrNotToBe.js)            | Easy       |
 | 2620 | [Counter](https://leetcode.cn/problems/counter/)                                        | [JavaScript](./javascript/Counter.js)                  | Easy       |
