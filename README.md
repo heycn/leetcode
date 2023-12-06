@@ -1,5 +1,7 @@
 # leetcode
 
+> Yep... I really don't know algorithms.
+
 ### Problem List
 
 | #    | Title                                                                                                                 | Solution                                                           | Difficulty |
