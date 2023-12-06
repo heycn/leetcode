@@ -13,5 +13,6 @@
 | 2634 | [Filter Elements from Array](https://leetcode.cn/problems/filter-elements-from-array)                                 | [JavaScript](./javascript/FilterElementsFromArray.js)              | Easy       |
 | 2629 | [Function Composition](https://leetcode.cn/problems/function-composition)                                             | [JavaScript](./javascript/FunctionComposition.js)                  | Easy       |
 | 2626 | [Array Reduce Transformation](https://leetcode.cn/problems/array-reduce-transformation)                               | [JavaScript](./javascript/ArrayReduceTransformation.js)            | Easy       |
+| 2623 | [Memoize](https://leetcode.cn/problems/memoize)                                                                       | [JavaScript](./javascript/Memoize.js)                              | Medium     |
 | 2620 | [Counter](https://leetcode.cn/problems/counter/)                                                                      | [JavaScript](./javascript/Counter.js)                              | Easy       |
 | 1    | [Two Sum](https://leetcode.cn/problems/two-sum)                                                                       | [JavaScript](./javascript/TwoSum.js)                               | Easy       |
