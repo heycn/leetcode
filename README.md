@@ -6,6 +6,7 @@
 
 | #    | Title                                                                                                                 | Solution                                                           | Difficulty |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
+| 2723 | [Add Two Promises](https://leetcode.cn/problems/to-be-or-not-to-be)                                                   | [JavaScript](./javascript/AddTwoPromises.js)                       | Easy       |
 | 2704 | [To Be Or Not To be](https://leetcode.cn/problems/to-be-or-not-to-be)                                                 | [JavaScript](./javascript/ToBeOrNotToBe.js)                        | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.cn/problems/return-length-of-arguments-passed)                   | [JavaScript](./javascript/ReturnLengthOfArgumentsPassed.js)        | Easy       |
 | 2667 | [Create Hello World Function](https://leetcode.cn/problems/create-hello-world-function)                               | [JavaScript](./javascript/CreateHelloWorldFunction.js)             | Easy       |
