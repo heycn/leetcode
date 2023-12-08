@@ -6,7 +6,7 @@
 
 | #    | Title                                                                                                                 | Solution                                                           | Difficulty |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
-| 2723 | [Add Two Promises](https://leetcode.cn/problems/to-be-or-not-to-be)                                                   | [JavaScript](./javascript/AddTwoPromises.js)                       | Easy       |
+| 2723 | [Add Two Promises](https://leetcode.cn/problems/add-two-promises)                                                   | [JavaScript](./javascript/AddTwoPromises.js)                       | Easy       |
 | 2704 | [To Be Or Not To be](https://leetcode.cn/problems/to-be-or-not-to-be)                                                 | [JavaScript](./javascript/ToBeOrNotToBe.js)                        | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.cn/problems/return-length-of-arguments-passed)                   | [JavaScript](./javascript/ReturnLengthOfArgumentsPassed.js)        | Easy       |
 | 2667 | [Create Hello World Function](https://leetcode.cn/problems/create-hello-world-function)                               | [JavaScript](./javascript/CreateHelloWorldFunction.js)             | Easy       |
@@ -17,5 +17,6 @@
 | 2629 | [Function Composition](https://leetcode.cn/problems/function-composition)                                             | [JavaScript](./javascript/FunctionComposition.js)                  | Easy       |
 | 2626 | [Array Reduce Transformation](https://leetcode.cn/problems/array-reduce-transformation)                               | [JavaScript](./javascript/ArrayReduceTransformation.js)            | Easy       |
 | 2623 | [Memoize](https://leetcode.cn/problems/memoize)                                                                       | [JavaScript](./javascript/Memoize.js)                              | Medium     |
+| 2621 | [Sleep](https://leetcode.cn/problems/sleep/)                                                                      | [JavaScript](./javascript/Sleep.js)                              | Easy       |
 | 2620 | [Counter](https://leetcode.cn/problems/counter/)                                                                      | [JavaScript](./javascript/Counter.js)                              | Easy       |
 | 1    | [Two Sum](https://leetcode.cn/problems/two-sum)                                                                       | [JavaScript](./javascript/TwoSum.js)                               | Easy       |
